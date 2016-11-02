@@ -1,0 +1,21 @@
+{
+  "name": "skb-start",
+  "version": "1.0.0",
+  "description": "hello skill-branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Alexander Igporevich",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suder/skb-start.git"
+  },
+  "dependencies": {
+    "skb": "^1.0.0"
+  }
+}
